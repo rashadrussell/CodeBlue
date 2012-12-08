@@ -1,8 +1,11 @@
 {
   "name":"socketio_example",
   "version":"0.0.1",
-  "private":true,
   "dependencies":{
-    "socket.io":"0.8.7"
+    "socket.io":"0.9.11"
+  },
+  "engine": {
+  	"node": "0.8.15",
+  	"npm": "1.1.65" 
   }
 }
